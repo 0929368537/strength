@@ -1,0 +1,2 @@
+# strength
+#cs _CalculateBitEntropyNIST Name:               _CalculateBitEntropyNIST Description:        Calculate the bit entropy of a string according to NIST Special                     Publication 800-63. Author:             dany Parameters:         $sStr       - String: String to evaluate. Return values:      Success:    - Float: Bit entropy.                     Failure:    - 0 and sets @error Remarks:            This is the algorithm used in http://xkcd.com/936/. Link:               http://en.wikipedia.org/wiki/Password_strength#Human-generated_passwords
